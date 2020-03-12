@@ -1,1 +1,1 @@
-# friday-live-codding
+# friday-live-coding
